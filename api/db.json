@@ -9,6 +9,11 @@
       "title": "Stream 2",
       "description": "This is my stream 2",
       "id": 2
+    },
+    {
+      "title": "Stream 3",
+      "description": "This is my stream 3",
+      "id": 3
     }
   ]
 }
